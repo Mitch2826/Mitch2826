@@ -86,13 +86,13 @@ I'm always up for collaborating on interesting projects, whether it's a web app,
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maranimitchelle@gmail.com)
   
 </div>
-
-
+---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mitch2826&color=blueviolet&style=for-the-badge">
   
   ### *“when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.”* ― Why The Lucky Stiff
   
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtqbDl2ZmgyYmljcHZxaGdta293YnhtMDc1aWRlY244ZHRvZmJjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width=100%>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtqbDl2ZmgyYmljcHZxaGdta293YnhtMDc1aWRlY244ZHRvZmJjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="100%">
 </div>
+---
 
