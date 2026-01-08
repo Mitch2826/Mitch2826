@@ -11,7 +11,6 @@ Right now I’m focused on creating digital solutions that make life easier.
 
 ## 💻 Tech Stack
 
-### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -88,13 +87,12 @@ I'm always up for collaborating on interesting projects, whether it's a web app,
   
 </div>
 
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mitch2826&color=blueviolet&style=for-the-badge">
   
   ### *“when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.”* ― Why The Lucky Stiff
   
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtqbDl2ZmgyYmljcHZxaGdta293YnhtMDc1aWRlY244ZHRvZmJjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width=100%>
 </div>
 
