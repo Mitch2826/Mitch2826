@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9oODk3ZmkzYzg1dWR3OGVseXgyd2E3dXR1N25oZjUxc2xweHc2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9oODk3ZmkzYzg1dWR3OGVseXgyd2E3dXR1N25oZjUxc2xweHc2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="200">
 </div>
 ###  IT Specialist | Software Engineer
 I enjoy building things that work well and fixing things that don’t. From web apps to databases to servers, I like solving problems and making tech useful for people.
@@ -89,7 +89,7 @@ I'm always up for collaborating on interesting projects, whether it's a web app,
   <img src="https://komarev.com/ghpvc/?username=Mitch2826&color=blueviolet&style=for-the-badge">
   
   ### *“when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.”* ― Why The Lucky Stiff
-  <div><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtqbDl2ZmgyYmljcHZxaGdta293YnhtMDc1aWRlY244ZHRvZmJjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="100%" height="200"></div>
+  <div align="left"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtqbDl2ZmgyYmljcHZxaGdta293YnhtMDc1aWRlY244ZHRvZmJjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="100%" height="200"></div>
   
 </div>
 
