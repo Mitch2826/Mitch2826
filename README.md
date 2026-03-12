@@ -53,7 +53,7 @@ Right now I’m focused on creating digital solutions that make life easier.
 </div>
 
 ---
-
+<!--
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
@@ -63,6 +63,7 @@ Right now I’m focused on creating digital solutions that make life easier.
 <div align="center">
   <img src="https://raw.githubusercontent.com/Mitch2826/Mitch2826/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+-->
 
 ---
 ## 🤝 Let's Build Something Cool Together!
