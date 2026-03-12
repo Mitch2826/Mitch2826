@@ -63,9 +63,10 @@ Right now I’m focused on creating digital solutions that make life easier.
 <div align="center">
   <img src="https://raw.githubusercontent.com/Mitch2826/Mitch2826/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
--->
+
 
 ---
+-->
 ## 🤝 Let's Build Something Cool Together!
 
 I'm always up for collaborating on interesting projects, whether it's a web app, mobile solution, or even helping optimize your infrastructure. Got an idea? Let's chat!
